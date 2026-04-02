@@ -25,3 +25,4 @@ those!"""
     print(f'El texto con el que se va a trabajar es el siguiente : \n{text}')
 
 estadistica_texto()
+estadistica_texto()
